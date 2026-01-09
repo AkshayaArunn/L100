@@ -1,2 +1,0 @@
-Writing in stash file
-Modifying stash file
