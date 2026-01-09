@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var ExportService_1 = require("./ExportService");
+var PDFExporter_1 = require("./PDFExporter");
+var WordExporter_1 = require("./WordExporter");
+var HTMLExporter_1 = require("./HTMLExporter");
+var pdfService = new ExportService_1.ExportService(new PDFExporter_1.PDFExporter());
+pdfService.exportDocument("OOP Notes");
+var wordService = new ExportService_1.ExportService(new WordExporter_1.WordExporter());
+wordService.exportDocument("OOP Notes");
+var htmlService = new ExportService_1.ExportService(new HTMLExporter_1.HTMLExporter());
+htmlService.exportDocument("OOP Notes");

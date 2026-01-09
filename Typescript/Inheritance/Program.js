@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var PostModeration_1 = require("./PostModeration");
+var VideoModeration_1 = require("./VideoModeration");
+var post = new PostModeration_1.PostModeration("POST123", 600);
+var video = new VideoModeration_1.VideoModeration("VID456", 120);
+console.log(post.review());
+console.log(video.review());
+console.log("Post flagged?", post.isContentFlagged());
+console.log("Video flagged?", video.isContentFlagged());
