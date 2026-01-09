@@ -1,0 +1,21 @@
+{
+  "name": "ck-analyser-ts",
+  "version": "1.0.0",
+  "description": "CK Metrics Analyzer using ts-morph",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-morph": "^21.0.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.0.0"
+  }
+}
