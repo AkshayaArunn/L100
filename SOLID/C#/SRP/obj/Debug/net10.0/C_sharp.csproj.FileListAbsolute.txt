@@ -1,0 +1,14 @@
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\bin\Debug\net10.0\C_sharp.exe
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\bin\Debug\net10.0\C_sharp.deps.json
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\bin\Debug\net10.0\C_sharp.runtimeconfig.json
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\bin\Debug\net10.0\C_sharp.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\bin\Debug\net10.0\C_sharp.pdb
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.AssemblyInfoInputs.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.AssemblyInfo.cs
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\refint\C_sharp.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.pdb
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\C_sharp.genruntimeconfig.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C_sharp\obj\Debug\net10.0\ref\C_sharp.dll

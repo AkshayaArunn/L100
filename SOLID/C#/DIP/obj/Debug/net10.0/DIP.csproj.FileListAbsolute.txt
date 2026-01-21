@@ -1,0 +1,15 @@
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\bin\Debug\net10.0\DIP.exe
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\bin\Debug\net10.0\DIP.deps.json
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\bin\Debug\net10.0\DIP.runtimeconfig.json
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\bin\Debug\net10.0\DIP.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\bin\Debug\net10.0\DIP.pdb
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.AssemblyInfoInputs.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.AssemblyInfo.cs
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.sourcelink.json
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\refint\DIP.dll
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.pdb
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\DIP.genruntimeconfig.cache
+C:\Users\akshaya.a\Documents\L100\SOLID\C#\DIP\obj\Debug\net10.0\ref\DIP.dll
